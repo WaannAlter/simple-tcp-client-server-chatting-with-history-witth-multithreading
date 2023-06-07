@@ -6,4 +6,4 @@ python3 server.py
 after that
 python3 client.py  in another terminal
 
-can handle many client but idk the limit not tested it yed
+can handle many client but idk the limit not tested it yet
